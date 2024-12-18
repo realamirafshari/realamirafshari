@@ -6,7 +6,6 @@
       I'm Amir Afshari , a JS Programmer and front-end developer , welcome to my
       github :)
     </h1>
-
     <h1>mySkills :</h1>
     <ul>
         <li>HTML3</li>
