@@ -1,10 +1,10 @@
 ## Hello Developer :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" style="height: 1em; vertical-align: middle;">
-Welcome to my GitHub , Smart Developer always looks at the codes ...
+welcome to my GitHub , Smart Developer always looks at the codes ...
 
 ---
 
 ## aboutMe :
-I'm a JS Programmer and front-end developer . 
+I'm a javascript Programmer and front-end developer . 
 
 ## mySkills :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
