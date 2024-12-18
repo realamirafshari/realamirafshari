@@ -1,11 +1,10 @@
 ## Hello Developer :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" style="height: 1em; vertical-align: middle;">
-
-Smart Developer always looks at the codes ...
+Welcome to my GitHub , Smart Developer always looks at the codes ...
 
 ---
 
 ## aboutMe :
-I'm Amir Afshari, a JS Programmer and front-end developer. Welcome to my GitHub :)
+I'm a JS Programmer and front-end developer from kerman
 
 ## mySkills :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
