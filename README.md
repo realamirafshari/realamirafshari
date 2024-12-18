@@ -1,4 +1,5 @@
-## Hello Developer :) ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+## Hello Developer :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" style="height: 1em; vertical-align: middle;">
+
 Smart Developer always looks at the codes ...
 
 ---
