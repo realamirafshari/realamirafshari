@@ -1,7 +1,7 @@
-# 💫 About Me:
-
-Hey guys 👋 😄<br><br>I'm Amir Afshari , a JS Programmer and front-end developer
- who is in love with Javascript and React JS and everything that is kinda related to it. ds
+# Hey guys 👋 😄:
+<h3>Hiiiiiiiii</h3>
+I'm Amir Afshari , a JS Programmer and front-end developer
+who is in love with Javascript and React JS and everything that is kinda related to it. ds
 
 ## 🌐 Socials:
 
