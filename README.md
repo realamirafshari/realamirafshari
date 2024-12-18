@@ -4,7 +4,7 @@ Welcome to my GitHub , Smart Developer always looks at the codes ...
 ---
 
 ## aboutMe :
-I'm a JS Programmer and front-end developer from kerman
+I'm a JS Programmer and front-end developer . 
 
 ## mySkills :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
