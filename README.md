@@ -1,4 +1,4 @@
-## Hello Developer :)
+## Hello Developer :) ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 Smart Developer always looks at the codes ...
 
 ---
