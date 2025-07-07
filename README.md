@@ -7,12 +7,13 @@ welcome to my GitHub , Smart Developer always looks at the codes ...
 I'm a javascript Programmer and front-end developer . 
 
 ## mySkills :
-![HTML5](https://img.shields.io/badge/HTML5-ffe8e1?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffe8e1)
-![CSS3](https://img.shields.io/badge/CSS3-e0edff?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=e0edff)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff8d1?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=fff8d1)
-![ReactJS](https://img.shields.io/badge/React.js-e6faff?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=e6faff)
-![SASS](https://img.shields.io/badge/SASS-ffe4f1?style=for-the-badge&logo=sass&logoColor=CD6799&labelColor=ffe4f1)
-![Git](https://img.shields.io/badge/Git-ffe1db?style=for-the-badge&logo=git&logoColor=F05033&labelColor=ffe1db)
+https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23ff9d48&color=%23e6e6e8
+https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css&logoColor=%231737b0&color=%23e6e6e8
+https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23e1a819&color=%23e6e6e8
+https://img.shields.io/badge/React_Js-%2381e2fc?style=for-the-badge&logo=react&logoColor=blue&color=%23e6e6e8
+https://img.shields.io/badge/Sass-%2381e2fc?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23e6e6e8
+https://img.shields.io/badge/Git-%2381e2fc?style=for-the-badge&logo=git&logoColor=%23F05032&color=%23e6e6e8
+https://img.shields.io/badge/GitHub-%2381e2fc?style=for-the-badge&logo=github&logoColor=%23181717&color=%23e6e6e8
 
 
 
