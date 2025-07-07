@@ -21,6 +21,7 @@ I'm a javascript Programmer and front-end developer .
 ---
 
 ## mySocialMedia :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realamirafshari)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/realamirafshari)
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/realamirafshari)
+[![Instagram](https://img.shields.io/badge/Instagram-%23e6e6e8?style=for-the-badge&logo=instagram&logoColor=%23E4405F&labelColor=e6e6e8)](https://www.instagram.com/realamirafshari)
+[![GitHub](https://img.shields.io/badge/GitHub-%23e6e6e8?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=e6e6e8)](https://github.com/realamirafshari)
+[![Twitter](https://img.shields.io/badge/X-%23e6e6e8?style=for-the-badge&logo=Twitter&logoColor=%231DA1F2&labelColor=e6e6e8)](https://twitter.com/realamirafshari)
+
