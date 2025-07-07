@@ -7,7 +7,7 @@ welcome to my GitHub , Smart Developer always looks at the codes ...
 I'm a javascript Programmer and front-end developer . 
 
 ## mySkills :
-https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23ff9d48&color=%23e6e6e8
+![HTML]https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23ff9d48&color=%23e6e6e8
 https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css&logoColor=%231737b0&color=%23e6e6e8
 https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23e1a819&color=%23e6e6e8
 https://img.shields.io/badge/React_Js-%2381e2fc?style=for-the-badge&logo=react&logoColor=blue&color=%23e6e6e8
