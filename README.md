@@ -9,7 +9,7 @@ I'm a **JavaScript Programmer** and **Front-End Developer** focused on building 
 ![CSS](https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css3&logoColor=%231737b0&color=%23e6e6e8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23e1a819&color=%23e6e6e8)
 ![React Js](https://img.shields.io/badge/React_Js-%2381e2fc?style=for-the-badge&logo=react&logoColor=blue&color=%23e6e6e8)
-![Tailwind](https://img.shields.io/badge/Tailwindcss-%2381e2fc?style=for-the-badge&logo=tailwindcss&logoColor=%23CC6699&color=%23e6e6e8)
+![Tailwind](https://img.shields.io/badge/Tailwindcss-%2381e2fc?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=%23e6e6e8)
 
 ![Sass](https://img.shields.io/badge/Sass-%2381e2fc?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23e6e6e8)
 ![Git](https://img.shields.io/badge/Git-%2381e2fc?style=for-the-badge&logo=git&logoColor=%23F05032&color=%23e6e6e8)
