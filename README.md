@@ -8,7 +8,10 @@ I'm a **JavaScript Programmer** and **Front-End Developer** focused on building 
 ![HTML](https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23ff9d48&color=%23e6e6e8)
 ![CSS](https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css3&logoColor=%231737b0&color=%23e6e6e8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23e1a819&color=%23e6e6e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2381e2fc?style=for-the-badge&logo=typescript&logoColor=%23e1a819&color=%23e6e6e8)
 ![React Js](https://img.shields.io/badge/React_Js-%2381e2fc?style=for-the-badge&logo=react&logoColor=blue&color=%23e6e6e8)
+![Next Js](https://img.shields.io/badge/Next_Js-%2381e2fc?style=for-the-badge&logo=next&logoColor=blue&color=%23e6e6e8)
+
 ![Tailwind](https://img.shields.io/badge/Tailwindcss-%2381e2fc?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=%23e6e6e8)
 
 ![Sass](https://img.shields.io/badge/Sass-%2381e2fc?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23e6e6e8)
