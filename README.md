@@ -5,18 +5,18 @@ Welcome to my GitHub — Smart Developers always look at the codes...
 I'm a **JavaScript Programmer** and **Front-End Developer** focused on building clean, responsive, and user-friendly web interfaces.
 
 ## 🚀 My Skills:
-![HTML](https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23ff9d48&color=%23e6e6e8)
-![CSS](https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css3&logoColor=%231737b0&color=%23e6e6e8)
-![JavaScript](https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23e1a819&color=%23e6e6e8)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2381e2fc?style=for-the-badge&logo=typescript&logoColor=%23e1a819&color=%23e6e6e8)
-![React Js](https://img.shields.io/badge/React_Js-%2381e2fc?style=for-the-badge&logo=react&logoColor=blue&color=%23e6e6e8)
-![Next Js](https://img.shields.io/badge/Next_Js-%2381e2fc?style=for-the-badge&logo=next&logoColor=blue&color=%23e6e6e8)
+![HTML](https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23e6e6e8)
+![CSS](https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css3&logoColor=%231572B6&color=%23e6e6e8)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23e6e6e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2381e2fc?style=for-the-badge&logo=typescript&logoColor=%23007ACC&color=%23e6e6e8)
+![React](https://img.shields.io/badge/React-%2381e2fc?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23e6e6e8)
+![Next.js](https://img.shields.io/badge/Next.js-%2381e2fc?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&color=%23e6e6e8)
 
-![Tailwind](https://img.shields.io/badge/Tailwindcss-%2381e2fc?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=%23e6e6e8)
-
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2381e2fc?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC&color=%23e6e6e8)
 ![Sass](https://img.shields.io/badge/Sass-%2381e2fc?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23e6e6e8)
 ![Git](https://img.shields.io/badge/Git-%2381e2fc?style=for-the-badge&logo=git&logoColor=%23F05032&color=%23e6e6e8)
 ![GitHub](https://img.shields.io/badge/GitHub-%2381e2fc?style=for-the-badge&logo=github&logoColor=%23181717&color=%23e6e6e8)
+
 
 ## 📬 Contact Me:
 📧 realamirafshari@gmail.com  
