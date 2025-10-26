@@ -2,7 +2,7 @@
 Welcome to my GitHub — Smart Developers always look at the codes...
 
 ## About Me:
-I'm a **JavaScript Programmer** and **Front-End Developer** focused on building clean, responsive, and user-friendly web interfaces.
+I'm a **Programmer** and **Front-end Developer** focused on building clean, responsive, and user-friendly web interfaces.
 
 ## 🚀 My Skills:
 ![HTML](https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23e6e6e8)
