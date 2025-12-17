@@ -8,6 +8,7 @@ I'm a **Programmer** and **Front-end Developer** focused on building clean, resp
 ![HTML](https://img.shields.io/badge/HTML-%2381e2fc?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23e6e6e8)
 ![CSS](https://img.shields.io/badge/CSS-%2381e2fc?style=for-the-badge&logo=css3&logoColor=%231572B6&color=%23e6e6e8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2381e2fc?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23e6e6e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2381e2fc?style=for-the-badge&logo=typescript&logoColor=%23007ACC&color=%23e6e6e8)
 ![React](https://img.shields.io/badge/React-%2381e2fc?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23e6e6e8)
 ![Next.js](https://img.shields.io/badge/Next.js-%2381e2fc?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&color=%23e6e6e8)
 
