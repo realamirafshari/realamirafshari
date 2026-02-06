@@ -23,5 +23,4 @@ I'm a **Programmer** and **Front-end Developer** focused on building clean, resp
 
 ## 🌐 My Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23e6e6e8?style=for-the-badge&logo=instagram&logoColor=%23E4405F&labelColor=e6e6e8)](https://www.instagram.com/realamirafshari)
-[![GitHub](https://img.shields.io/badge/GitHub-%23e6e6e8?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=e6e6e8)](https://github.com/realamirafshari)
 [![Twitter](https://img.shields.io/badge/X-%23e6e6e8?style=for-the-badge&logo=X&logoColor=%231DA1F2&labelColor=e6e6e8)](https://twitter.com/realamirafshari)
